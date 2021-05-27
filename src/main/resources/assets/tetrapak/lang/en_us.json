@@ -55,6 +55,16 @@
   "tetra.improvement.tetrapak/moonstrike.name": "Moonstrike",
   "tetra.improvement.tetrapak/moonstrike.description": "The moonstone used to make this tool gains strength based on moon phase",
 
+  "tetra/schematic/single/head/cane_knob/cane_knob.name": "Cane knob",
+  "tetra/schematic/single/head/cane_knob/cane_knob.description": "Craft a cane knob from the given material, which can typically be used to increase the user's walking speed.",
+  "tetra/schematic/single/head/cane_knob/cane_knob.slot1": "Head material",
+
+  "tetra.module.single/cane_knob.item_name": "Cane",
+  "tetra.module.single/cane_knob.name": "Cane knob",
+  "tetra.module.single/cane_knob.description": "A basic cane knob which can be used to walk faster.",
+  "tetra.module.single/cane_knob.material_name": "%s cane knob",
+  "tetra.module.single/cane_knob.prefix": "%s",
+
   "tetrapak.stats.voiding": "Voiding",
   "tetrapak.stats.voiding.tooltip": "This tool will void the drops of blocks mined and mobs killed with it in exchange for experience\n\n\u00a7ex%s \u00a77mob kill experience multiplier\n\u00a7ex%s \u00a77block experience multiplier",
 

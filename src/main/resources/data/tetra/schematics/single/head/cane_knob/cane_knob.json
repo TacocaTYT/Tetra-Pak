@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "slots": [
+    "single/head"
+  ],
+  "materialSlotCount": 1,
+  "displayType": "major",
+  "glyph": {
+    "textureLocation": "tetrapak:textures/gui/glyphs.png",
+    "textureX": 32
+  },
+  "outcomes": [
+    {
+      "materials": ["tetra:wood/", "tetra:stone/", "tetra:metal/", "tetra:bone/"],
+      "moduleKey": "single/cane_knob",
+      "moduleVariant": "cane_knob/"
+    }
+  ]
+}
