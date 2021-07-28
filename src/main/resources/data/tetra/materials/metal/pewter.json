@@ -1,25 +1,29 @@
 {
   "key": "pewter",
   "category": "metal",
-  "primary": "6",
-  "secondary": "4.6",
-  "tertiary": "1.5",
-  "durability": "325",
-  "integrityCost": "2",
-  "integrityGain": "5",
-  "magicCapacity": "72",
-  "toolLevel": "3",
-  "toolEfficiency": "6.5",
+  "primary": "9",
+  "secondary": "3.85",
+  "tertiary": "2.5",
+  "durability": "210",
+  "integrityCost": "1",
+  "integrityGain": "2",
+  "magicCapacity": "90",
+  "toolLevel": "2",
+  "toolEfficiency": "5",
   "tints": {
-    "glyph": "9f9e95",
-    "texture": "9f9e95"
+    "glyph": "a3a7a8",
+    "texture": "a3a7a8"
   },
   "textures": [
     "metal",
-    "default"
+    "normal"
   ],
   "material": {
     "item": "eidolon:pewter_ingot"
+  },
+  "improvements": {
+    "workable": 2,
+    "unstable": 1
   },
   "requiredTools": {
     "hammer": 2
