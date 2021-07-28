@@ -1,0 +1,50 @@
+[
+  {
+    "predicate": {
+      "item": "eidolon:reaper_scythe"
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/sickle_left",
+        "sickle/pewter"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/pewter"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ],
+      "double/socket": [
+        "double/binding",
+        "double_socket/unholy_symbol"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "item": "eidolon:cleaving_axe"
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/pewter"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/pewter"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ],
+      "double/socket": [
+        "double/binding",
+        "double_socket/unholy_symbol"
+      ]
+    }
+  }
+]
