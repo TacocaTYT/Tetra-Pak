@@ -18,7 +18,7 @@
         "basic_handle/stick"
       ],
       "double/socket": [
-        "double/binding",
+        "double/socket",
         "double_socket/unholy_symbol"
       ]
     }
@@ -42,7 +42,7 @@
         "basic_handle/stick"
       ],
       "double/socket": [
-        "double/binding",
+        "double/socket",
         "double_socket/unholy_symbol"
       ]
     }

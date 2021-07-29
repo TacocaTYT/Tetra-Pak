@@ -1,0 +1,30 @@
+{
+  "key": "polished_wood",
+  "category": "wood",
+  "primary": "4.2",
+  "secondary": "2.2",
+  "tertiary": "6.25",
+  "durability": "85",
+  "integrityCost": "2",
+  "integrityGain": "6",
+  "magicCapacity": "92",
+  "toolLevel": "2",
+  "toolEfficiency": "3.2",
+  "tints": {
+    "glyph": "593821",
+    "texture": "593821"
+  },
+  "textures": [
+    "wood",
+    "shiny"
+  ],
+  "material": {
+    "item": "eidolon:polished_planks"
+  },
+  "improvements": {
+    "workable": 1.5
+  },
+  "requiredTools": {
+    "axe": 3
+  }
+}
