@@ -1,6 +1,6 @@
 [
   {
-    "key": "basic_handle/wrap_wicked_weave",
+    "key": "basic_handle/wicked_weave",
     "level": 1,
     "durability": 10,
     "group": "wrap",
@@ -18,7 +18,7 @@
     }]
   },
   {
-    "key": "basic_handle/wrap_wicked_weave",
+    "key": "basic_handle/wicked_weave",
     "level": 2,
     "durability": 18,
     "group": "wrap",
@@ -36,7 +36,7 @@
     }]
   },
   {
-    "key": "basic_handle/wrap_wicked_weave",
+    "key": "basic_handle/wicked_weave",
     "level": 3,
     "durability": 25,
     "group": "wrap",
