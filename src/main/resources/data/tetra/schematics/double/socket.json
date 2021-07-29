@@ -129,6 +129,30 @@
       "experienceCost": 5,
       "moduleKey": "double/socket",
       "moduleVariant": "double_socket/unholy_symbol"
+    },
+    {
+      "material": {
+        "item": "eidolon:shadow_gem"
+      },
+      "experienceCost": 5,
+      "moduleKey": "double/socket",
+      "moduleVariant": "double_socket/shadow_gem"
+    },
+    {
+      "material": {
+        "item": "eidolon:shadow_gem"
+      },
+      "experienceCost": 5,
+      "moduleKey": "single/socket",
+      "moduleVariant": "single_socket/shadow_gem"
+    },
+    {
+      "material": {
+        "item": "eidolon:shadow_gem"
+      },
+      "experienceCost": 5,
+      "moduleKey": "sword/socket",
+      "moduleVariant": "sword_socket/shadow_gem"
     }
   ]
 }

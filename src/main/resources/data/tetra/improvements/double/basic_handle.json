@@ -52,5 +52,59 @@
       "location": "tetra:items/module/double/handle/basic/improvements/wrap",
       "tint": "282fb5"
     }]
+    },
+  {
+    "key": "basic_handle/wrap_tattered_cloth",
+    "level": 1,
+    "durability": 10,
+    "group": "wrap",
+    "integrity": -1,
+    "attributes": {
+      "**generic.attack_damage": 0.075
+    },
+    "effects": {
+      "fierySelf": [1, 0.15],
+      "enderReverb": [-1.75, -0.10]
+    },
+    "models": [{
+      "location": "tetra:items/module/double/handle/basic/improvements/wrap",
+      "tint": "aaacb3"
+    }]
+  },
+  {
+    "key": "basic_handle/wrap_tattered_cloth",
+    "level": 2,
+    "durability": 18,
+    "group": "wrap",
+    "integrity": -1,
+    "attributes": {
+      "**generic.attack_damage": 0.125
+    },
+    "effects": {
+      "fierySelf": [0.8, 0.12],
+      "enderReverb": [-2, -0.08]
+    },
+    "models": [{
+      "location": "tetra:items/module/double/handle/basic/improvements/wrap",
+      "tint": "aaacb3"
+    }]
+  },
+  {
+    "key": "basic_handle/wrap_tattered_cloth",
+    "level": 3,
+    "durability": 25,
+    "group": "wrap",
+    "integrity": -2,
+    "attributes": {
+      "**generic.attack_damage": 0.25
+    },
+    "effects": {
+      "fierySelf": [0.6, 0.08],
+      "enderReverb": [-2.5, -1]
+    },
+    "models": [{
+      "location": "tetra:items/module/double/handle/basic/improvements/wrap",
+      "tint": "aaacb3"
+    }]
   }
 ]

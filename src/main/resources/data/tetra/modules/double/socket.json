@@ -311,6 +311,66 @@
           "tint": "cccbc4"
         }
       ]
+    },
+    {
+      "key": "double_socket/shadow_gem",
+      "category": "misc",
+      "durability": 35,
+      "integrity": -1,
+      "effects": {
+        "tetrapak:voiding": 1
+      },
+      "glyph": {
+        "tint": "cccbc4",
+        "textureX": 80,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/double/binding/socket/default",
+          "tint": "cccbc4"
+        }
+      ]
+    },
+    {
+      "key": "double_socket/shadow_gem",
+      "category": "misc",
+      "durability": 35,
+      "integrity": -1,
+      "effects": {
+        "tetrapak:voiding": 1
+      },
+      "glyph": {
+        "tint": "cccbc4",
+        "textureX": 80,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/sword/binding/socket/default",
+          "tint": "cccbc4"
+        }
+      ]
+    },
+    {
+      "key": "double_socket/shadow_gem",
+      "category": "misc",
+      "durability": 35,
+      "integrity": -1,
+      "effects": {
+        "tetrapak:voiding": 1
+      },
+      "glyph": {
+        "tint": "cccbc4",
+        "textureX": 80,
+        "textureY": 16
+      },
+      "models": [
+        {
+          "location": "tetra:items/module/single/binding/socket/default",
+          "tint": "cccbc4"
+        }
+      ]
     }
   ]
 }

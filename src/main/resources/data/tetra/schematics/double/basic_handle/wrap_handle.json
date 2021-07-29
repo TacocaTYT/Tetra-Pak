@@ -1,0 +1,37 @@
+{
+  "replace": true,
+  "slots": [
+    "double/handle"
+  ],
+  "materialSlotCount": 1,
+  "glyph": {
+    "textureX": 16
+  },
+  "displayType": "improvement",
+  "outcomes": [
+    {
+      "material": {
+        "item": "eidolon:wicked_weave",
+        "count": 2
+      },
+      "requiredTools": {
+        "cut": 2
+      },
+      "improvements": {
+        "basic_handle/wrap_wicked_weave": 1
+      }
+    },
+    {
+      "material": {
+        "item": "eidolon:tattered_cloth",
+        "count": 3
+      },
+      "requiredTools": {
+        "cut": 2
+      },
+      "improvements": {
+        "basic_handle/wrap_tattered_cloth": 1
+      }
+    }
+  ]
+}
